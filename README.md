@@ -4,3 +4,7 @@
 * 개발환경 
   * MacBook Air M2(Ventura 13.0.1)
   * IDE : VS Code
+
+---
+- Study 시작일 : 20230425
+- Goal : 로또 번호 추천 앱

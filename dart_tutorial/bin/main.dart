@@ -1,4 +1,4 @@
-import 'package:dartEx01/dartEx01.dart' as dartEx01;
+import 'package:dartTutorial/dartEx01.dart' as dartEx01;
 
 add(int a, int b) {
   return a + b;
